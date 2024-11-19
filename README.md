@@ -1,6 +1,6 @@
-# EX 2B                                                  SIMULATING ARP /RARP PROTOCOLS
+# EX 2C                                                  SIMULATING ARP /RARP PROTOCOLS
 # NAME:KARTHICK KISHORE T
-# REGNO:212223110041
+# REGNO:212223220042
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
